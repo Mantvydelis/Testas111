@@ -64,7 +64,7 @@ namespace ManoPrograma
         //}
 
         //5 uzduotis
-        public static void Main(string[] args)
+        public static void Main()
         {
             Studentas stud1 = new Studentas("Petras", 8);
             Studentas stud2 = new Studentas("Kestas", 8);

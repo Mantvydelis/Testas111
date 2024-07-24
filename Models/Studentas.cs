@@ -18,7 +18,7 @@ namespace Testas111.Models
             Pazymys = pazymys;
         }
 
-        public bool ArIslaike(Studentas studentas)
+        public static bool ArIslaike(Studentas studentas)
         {
             if (studentas.Pazymys >= 5)
             {
